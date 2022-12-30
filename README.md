@@ -1,6 +1,6 @@
 # Heart Disease Prediction
 
-# Model used - Logistic Regression
+* Model used - Logistic Regression
 
 Steps involved -
 
