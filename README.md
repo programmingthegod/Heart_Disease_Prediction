@@ -6,7 +6,7 @@ Steps involved -
 
 * 1 Installing required packages
 
-** 1.1 pip install numpy
+* * 1.1 pip install numpy
 1.2 pip install scikit-learn
 1.3 pip install pandas
 
