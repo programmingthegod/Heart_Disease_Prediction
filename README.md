@@ -4,22 +4,22 @@
 
 Steps involved -
 
-* 1 Installing required packages
+* Installing required packages
 
-* * 1.1 pip install numpy
-* * 1.2 pip install scikit-learn
-* * 1.3 pip install pandas
+* * pip install numpy
+* * pip install scikit-learn
+* * pip install pandas
 
-* 2 Importing the packages
+* Importing the packages
 
-* 3 Loading Dataset
+* Loading Dataset
 
-* 4 Data pre-processing
+* Data pre-processing
 
-* 5 Splitting Features and target
+* Splitting Features and target
 
-* 6 Splitting data into training and test data
+* Splitting data into training and test data
 
-* 7 Model training and evaluation
+* Model training and evaluation
 
-* 8 Building a Predictive System
+* Building a Predictive System
